@@ -1,0 +1,29 @@
+.back{
+    background-color: rgb(1, 90, 255);
+    color: white;
+    text-align: center;
+}
+
+.center{
+    text-align: center;
+}
+
+.form_back{
+    background-color: teal;
+}
+
+th.width10{
+    width:10%;
+}
+
+th.width20{
+    width:10%;
+}
+
+th.width30{
+    width:10%;
+}
+
+th.width40{
+    width:10%;
+}
