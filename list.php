@@ -5,6 +5,8 @@ if(isset($_GET['success'])){
 // const.phpから定数取得。
 require_once'./const.php';
 
+echo "git test(追記)";
+
 // $upload変数受け取り。
 //ファイル
 @$upload_file = $_FILES['upload_file'];
